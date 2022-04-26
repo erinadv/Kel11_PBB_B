@@ -1,5 +1,6 @@
 # Kel11_PBB_B
 Proyek ini dibuat menggunakan bahasa XML sederhana
+
 Komponen yang digunakan dalam proyek : TextView, ImageView, CardView, LinearLayout, RelativeLayout, dan ScrollView
 
 Kelompok 11 (PPB B):
