@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kelompok 11 - PPB (B)</string>
+    <string name="name1">Ida Bagus Putu Putra M.</string>
+    <string name="nim1">21120120140108</string>
+    <string name="prod1">Teknik Komputer 2020</string>
+    <string name="name2">Erina Devianti</string>
+    <string name="nim2">21120120140148</string>
+    <string name="name3">Engelbert Jubile S.</string>
+    <string name="nim3">21120120140080</string>
+    <string name="name4">Novita Auliya</string>
+    <string name="nim4">21120120140114</string>
+    <string name="name5">Michelia Vadilla V.</string>
+    <string name="nim5">21120120120020</string>
+    <string name="name6">Wisnu Adi Setianto</string>
+    <string name="nim6">21120120140142</string>
+</resources>
