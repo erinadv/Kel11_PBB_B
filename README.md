@@ -1,5 +1,5 @@
 # Kel11_PBB_B
-Proyek ini dibuat menggunakan bahasa XML sederhana
+Proyek ini dibuat menggunakan XML sederhana
 
 Komponen yang digunakan dalam proyek : TextView, ImageView, CardView, LinearLayout, RelativeLayout, dan ScrollView
 
@@ -11,6 +11,6 @@ Kelompok 11 (PPB B):
 - Michelia Vadilla Verdianto
 - Wisnu Adi Setianto
 
-Tampilan desain project
+Tampilan project
 
 ![Kelompok 11](https://user-images.githubusercontent.com/75254027/165272079-12d0b177-9eba-4455-8c0d-0db44163abeb.png)
