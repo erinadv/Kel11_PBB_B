@@ -11,5 +11,6 @@ Kelompok 11 (PPB B):
 - Michelia Vadilla Verdianto
 - Wisnu Adi Setianto
 
-Tampilan desain proyek
+Tampilan desain project
+
 ![Kelompok 11](https://user-images.githubusercontent.com/75254027/165272079-12d0b177-9eba-4455-8c0d-0db44163abeb.png)
